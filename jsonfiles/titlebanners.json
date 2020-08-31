@@ -1,4 +1,4 @@
-{
+[
         {
             "id": 0,
             "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/GhostsAvailable.png",
@@ -15,4 +15,4 @@
             "start_at": 0,
             "end_at": 4102358400
         }
-}
+]
