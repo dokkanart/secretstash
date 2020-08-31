@@ -1,0 +1,58 @@
+[
+        {
+            "id": 0,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TriBannerv5.png",
+            "link_to": "http://tridentcpt.com",
+            "description": "Join Trident Discord!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 1,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/UniDokkanBottomAd.png",
+            "link_to": "https://unidokkan.com",
+            "description": "Check out UniDokkan!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 2,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/BladeFive3.png",
+            "link_to": "http://bladefive.de",
+            "description": "Get BladeFive Farming Bot!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 3,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/DokkanGenesisBanner.png",
+            "link_to": "https://discord.gg/dXWB4Wd",
+            "description": "Check out Dokkan Genesis!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 4,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/HydrosPlaysYT.png",
+            "link_to": "http://second.hydrosplays.com",
+            "description": "Check out Hydros on YouTube!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 4,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TwitterFollow.png",
+            "link_to": "http://twitter.com/HydrosPlays",
+            "description": "Check out Hydros on Twitter!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 5,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/FirstWarden.png",
+            "link_to": "https://www.youtube.com/channel/UCnz0lkdfRhM8QAojL8PSymQ",
+            "description": "Check out TheFirstWarden!",
+            "start_at": 0,
+            "end_at": 4102358400
+        }
+]
