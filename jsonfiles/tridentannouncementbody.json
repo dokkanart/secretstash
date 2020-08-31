@@ -17,7 +17,7 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/BodyAnnouncement550x300.png",
 				"layout_type": 0
 			}, {
-				"description": "● Trident Mobile Update Information:\r\n- Ghost Cards Implementation\r\n- Removal of Unlocked Unit Changes\r\n- Safety Measures have been inplemented and improved",
+				"description": "{color: #FF9900}Trident Mobile Update Information:{color}\r\n- Ghost Cards Implementation\r\n- Removal of Unlocked Unit Changes\r\n- Safety Measures have been inplemented and improved",
 				"image": null,
 				"layout_type": 0
 			}
