@@ -13,14 +13,18 @@
 		"title": "Trident Ghosts Update!",
 		"bodies": [
             {
-				"description": "{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}{color : #A5FFF4}Trident Mobile v2.6.0{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\nGhosts Update is here!{color}{center}{size}{outline}{shadow}",
+				"description": "\r\n{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}{color : #A5FFF4}Trident Mobile v2.6.0{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\nGhosts Update is here!{color}{center}{size}{outline}{shadow}",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/BodyAnnouncement550x300.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Trident Mobile Update Information:\r\n{color}- Ghost Cards Implementation\r\n- Removal of Unlocked Unit Changes\r\n- Safety Measures have been inplemented and improved",
+				"description": "{color: #FF9900}Trident Mobile Update Information:\r\n{color}- Ghost Cards Implementation\r\n- Removal of Unlocked Unit Changes\r\n- Safety Measures have been inplemented and improved\r\n",
 				"image": null,
 				"layout_type": 0
-			}
+			}, {
+				"description": "{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box, however, only the player can see and use these cards, while the game server will never see the ghost cards because to the server, Ghost Cards do not exist, hence the name Ghost Cards. ",
+				"image": null,
+				"layout_type": 0
+			},
 		]
 	}
 }
