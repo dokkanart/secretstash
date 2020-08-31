@@ -13,11 +13,11 @@
 		"title": "Trident Ghosts Update!",
 		"bodies": [
             {
-				"description": "Trident Mobile v2.6.0\nGhosts Update is here!",
+				"description": "{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}{color : #A5FFF4}Trident Mobile v2.6.0{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\nGhosts Update is here!{color}{center}{size}{outline}{shadow}",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/BodyAnnouncement550x300.png",
 				"layout_type": 0
 			}, {
-				"description": "{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\r\n{color : #A5FFF4}Trident Mobile Update!{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\r\n{color : #A5FFF4}Ghosts Now Available!{color}{center}{size}{outline}{shadow}\r\n",
+				"description": "● Trident Mobile Update Information:\r\n- Ghost Cards Implementation\r\n- Removal of Unlocked Unit Changes\r\n- Safety Measures have been inplemented and improved",
 				"image": null,
 				"layout_type": 0
 			}
