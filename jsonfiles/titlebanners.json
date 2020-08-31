@@ -1,18 +1,18 @@
 {
         {
-            {"id", 0},
-            {"image", "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/GhostsAvailable.png"},
-            {"link_to", "http://youtube.com/CS3Tutorials001"},
-            {"description", "GHOSTS HAS ARRIVED!"},
-            {"start_at", 0},
-            {"end_at", 4102358400}
+            "id": 0,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/GhostsAvailable.png",
+            "link_to": "http://youtube.com/CS3Tutorials001",
+            "description": "GHOSTS HAS ARRIVED!",
+            "start_at": 0,
+            "end_at": 4102358400
         },
         {
-            {"id", 1},
-            {"image", "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentBannerRefresh.png"},
-            {"link_to", "http://tridentcpt.com"},
-            {"description", "Join the Trident Discord!"},
-            {"start_at", 0},
-            {"end_at", 4102358400}
+            "id": 1,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentBannerRefresh.png",
+            "link_to": "http://tridentcpt.com",
+            "description": "Join the Trident Discord!",
+            "start_at": 0,
+            "end_at": 4102358400
         }
     }
