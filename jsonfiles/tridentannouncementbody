@@ -1,0 +1,26 @@
+{
+	"announcement": {
+		"announcement_status": "available",
+		"announcement_tab_id": 1,
+		"banner": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/GhostsAnnouncement550x110.png",
+		"category": 1,
+		"id": 99999999,
+		"is_new": true,
+		"layout_type": 0,
+		"new_appear_at": 1583390827,
+		"start_at": 1583390827,
+		"summary": "",
+		"title": "Trident Mobile\n Ghosts Update",
+		"bodies": [
+            {
+				"description": "Trident Mobile v2.6.0\nGhosts Update is here!",
+				"image": "https://place-hold.it/550x300.png",
+				"layout_type": 0
+			}, {
+				"description": "You can:\n\n{color:#FF0000}change text color{color}\n{shadow:#555555, 2, 2, 2}add text shadow{shadow}\n{outline: #FF0000, 2}add text outline{outline}\n{glow: #FFFF00}add text glow{glow}\n{size:40}text size{size}\n{link:https://google.com/}Add clickable links{link}\n{loginBonus: 229}\n{relatedCharacterListBtn: enemy_skill_id:8540 card_id:1011160, 1011050, 1010840}\n{showMission: 101}",
+				"image": null,
+				"layout_type": 0
+			}
+		]
+	}
+}
