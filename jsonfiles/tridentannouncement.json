@@ -1,0 +1,14 @@
+[
+        {
+		"announcement_tab_id": 1,
+		"banner": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/GhostsAnnouncement550x160.png",
+		"category": 1,
+		"id": 99999999,
+		"is_new": true,
+		"layout_type": 0,
+		"new_appear_at": 1583390827,
+		"start_at": 1583390827,
+		"summary": "Trident Ghosts Update",
+		"title": "Ghost Card update is Now Available!\nCheck out how it works!"
+	}
+]
