@@ -13,7 +13,7 @@
 		"title": "Trident Ghosts Update!",
 		"bodies": [
             {
-				"description": "\r\n{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}{color : #A5FFF4}Trident Mobile v2.6.0{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\nGhosts Update is here!{color}{center}{size}{outline}{shadow}",
+				"description": "{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}{color : #A5FFF4}Trident Mobile v2.6.0{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\nGhosts Update is here!{color}{center}{size}{outline}{shadow}",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/BodyAnnouncement550x300.png",
 				"layout_type": 0
 			}, {
