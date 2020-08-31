@@ -20,6 +20,10 @@
 				"description": "{color: #FF9900}Trident Mobile Update Information:\r\n{color}- Ghost Cards Implementation\r\n- Removal of Unlocked Unit Changes\r\n- Safety Measures have been inplemented and improved\r\n",
 				"image": null,
 				"layout_type": 0
+			}, {
+				"description": "{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards,\r\nwhile the game server will never see the ghost cards\r\nbecause to the server, Ghost Cards do not exist,\r\nhence the name Ghost Cards.",
+				"image": null,
+				"layout_type": 0
 			}
 		]
 	}
