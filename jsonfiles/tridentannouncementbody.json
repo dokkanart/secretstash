@@ -17,7 +17,7 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/BodyAnnouncement550x300.png",
 				"layout_type": 0
 			}, {
-				"description": "{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\r\n{color : #A5FFF4}Trident Mobile Update!\r\n{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\r\n{color : #A5FFF4}Ghosts Now Available!{color}{center}{size}{outline}{shadow}\r\n\r\n",
+				"description": "{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\n{color : #A5FFF4}Trident Mobile Update!\n{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\r\n{color : #A5FFF4}Ghosts Now Available!{color}{center}{size}{outline}{shadow}\r\n",
 				"image": null,
 				"layout_type": 0
 			}
