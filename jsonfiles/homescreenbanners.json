@@ -54,5 +54,29 @@
             "description": "Check out TheFirstWarden!",
             "start_at": 0,
             "end_at": 4102358400
+        },
+        {
+            "id": 6,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/IWBanner.png",
+            "link_to": "https://unidokkan.com/api/patch-download/5d5fc706-ccb1-4fff-9094-1cc5eda9744d/latest",
+            "description": "Get Instant Win & Auto Loot!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 7,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/AWBanner.png",
+            "link_to": "https://unidokkan.com/api/patch-download/59e4edee-81f7-bfac-8176-a41959199fbd/latest",
+            "description": "Get Auto Win!",
+            "start_at": 0,
+            "end_at": 4102358400
+        },
+        {
+            "id": 8,
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/EnglishTranslationBanner.png",
+            "link_to": "https://unidokkan.com/api/patch-download/58ab0418-4711-ad2d-9893-68be28a20113/latest",
+            "description": "Get the English Translation Patch!",
+            "start_at": 0,
+            "end_at": 4102358400
         }
 ]
