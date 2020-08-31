@@ -57,7 +57,7 @@
         },
         {
             "id": 6,
-            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/IWBanner.png",
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/InstaW.png",
             "link_to": "https://unidokkan.com/api/patch-download/5d5fc706-ccb1-4fff-9094-1cc5eda9744d/latest",
             "description": "Get Instant Win & Auto Loot!",
             "start_at": 0,
@@ -65,7 +65,7 @@
         },
         {
             "id": 7,
-            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/AWBanner.png",
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/AutoW.png",
             "link_to": "https://unidokkan.com/api/patch-download/59e4edee-81f7-bfac-8176-a41959199fbd/latest",
             "description": "Get Auto Win!",
             "start_at": 0,
@@ -73,7 +73,7 @@
         },
         {
             "id": 8,
-            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/EnglishTranslationBanner.png",
+            "image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/EngT.png",
             "link_to": "https://unidokkan.com/api/patch-download/58ab0418-4711-ad2d-9893-68be28a20113/latest",
             "description": "Get the English Translation Patch!",
             "start_at": 0,
