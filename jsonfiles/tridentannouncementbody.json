@@ -21,7 +21,7 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards, while the game server will never see the ghost cards because\r\nto the server, Ghost Cards do not exist, hence the name Ghost Cards.\r\n",
+				"description": "{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards,\r\nwhile the game server will never see the ghost cards because to the\r\nserver, Ghost Cards do not exist, hence the name\r\nGhost Cards.\r\n",
 				"image": null,
 				"layout_type": 0
 			}
