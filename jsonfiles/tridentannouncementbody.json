@@ -37,7 +37,7 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TeamSetup.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Trident Card Tag System\r\n{color}{color: #80B3FF}Trident Mobile{color} will enable card tags permanently while being used. The reason for this is because Ghost Cards are also Locked Units with your Real Units. So to help users differentiate their 'Real' cards from their 'Ghosts' cards, there is a custom Tag System in place with{color: #80B3FF} Trident{color} where Card Tag #1 are your 'Real' cards and Card Tag #2 are your 'Ghost' cards. This will not overwrite your tags you had. This change is only when using{color: #80B3FF} Trident Mobile{color}. Users can not edit tags while using{color: #80B3FF} Trident Mobile{color}, as it is just a safety precaution.",
+				"description": "{color: #FF9900}Trident Card Tag System\r\n{color}{color: #80B3FF}Trident Mobile{color} will enable card tags permanently while being\r\nused. The reason for this is because Ghost Cards are also\r\nLocked Units with your Real Units. So to help users differentiate\r\ntheir 'Real' cards from their 'Ghosts' cards, there is a custom Tag System in place with{color: #80B3FF} Trident{color} where Card Tag #1 are your 'Real' cards and Card Tag #2 are your 'Ghost' cards. This will not overwrite your tags you had. This change is only when using{color: #80B3FF} Trident Mobile{color}. Users can not edit tags while using{color: #80B3FF} Trident Mobile{color}, as it is just a safety precaution.",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TagSystem.png",
 				"layout_type": 0
 			}, {
