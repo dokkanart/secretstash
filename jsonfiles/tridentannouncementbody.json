@@ -29,7 +29,7 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}Previously, Trident Mobile would change your{color: #FFFF00} Unlocked Cards{color} to better and more powerful cards. Now,{color: #FFFF00} Unlocked Cards{color} will remain untouched by{color:  #80B3FF} Trident Mobile{color} so you can safely obtain summonable anddrop units without them being replaced while they are unlocked.",
+				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}Previously, Trident Mobile would change your{color: #FFFF00} Unlocked Cards{color}\r\nto better and more powerful cards. Now,{color: #FFFF00} Unlocked Cards{color} will\r\nremain untouched by{color:  #80B3FF} Trident Mobile{color} so you can safely obtain\r\nsummonable anddrop units without them being replaced while they\r\nare unlocked.",
 				"image": null,
 				"layout_type": 0
 			}, {
