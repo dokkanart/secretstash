@@ -37,7 +37,7 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Click Here to Watch Tutorial Video\r\n{link}{size}{color}{outline}",
+				"description": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Click Here to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}",
 				"image": null,
 				"layout_type": 0
 			}
