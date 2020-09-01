@@ -21,7 +21,7 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "\r\n{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards,\r\nwhile the game server will never see the ghost cards\r\nbecause to the server,{color: #FFFF00} Ghost Cards do not exist, hence\r\nthe name Ghost Cards.{color}. Ghost Units will also\r\n{color: #FF0000}be Locked Units{color}.",
+				"description": "\r\n{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards,\r\nwhile the game server will never see the ghost cards\r\nbecause to the server,{color: #FFFF00} Ghost Cards do not exist, hence\r\nthe name Ghost Cards.{color}. Ghost Units will also be\r\n{color: #FF0000} Locked Units{color}.",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/WhatAreGhosts.png",
 				"layout_type": 0
 			}, {
@@ -37,7 +37,7 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TeamSetup.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Trident Card Tag System\r\n{color}Trident Mobile will enable card tags permanently while being used. The reason for this is because Ghost Cards are also Locked Units with your Real Units. So to help users differentiate their 'Real' cards from their 'Ghosts' cards, there is a custom Tag System in place with Trident where Card Tag #1 are your 'Real' cards and Card Tag #2 are your 'Ghost' cards. This will not overwrite your tags you had. This change is only when using Trident Mobile. Users can not edit tags while using Trident Mobile, as it is just a safety precaution.",
+				"description": "{color: #FF9900}Trident Card Tag System\r\n{color}{color: #80B3FF}Trident Mobile{color} will enable card tags permanently while being used. The reason for this is because Ghost Cards are also Locked Units with your Real Units. So to help users differentiate their 'Real' cards from their 'Ghosts' cards, there is a custom Tag System in place with{color: #80B3FF} Trident{color} where Card Tag #1 are your 'Real' cards and Card Tag #2 are your 'Ghost' cards. This will not overwrite your tags you had. This change is only when using{color: #80B3FF} Trident Mobile{color}. Users can not edit tags while using{color: #80B3FF} Trident Mobile{color}, as it is just a safety precaution.",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TagSystem.png",
 				"layout_type": 0
 			}, {
