@@ -25,11 +25,11 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/WhatAreGhosts.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Are Ghost Cards Safe?\r\n{color}{color: #FFFF00}Yes!{color} Ghost cards have been implemented with safety measures\r\nto protect the user so that the game server sees only legitimate\r\ninformation while using{color:  #80B3FF} Trident Mobile{color}. This includes areas\r\nsuch as {color: #FF0000} World Tournament, Chain Battle, and Ultimate Clash.{color}",
+				"description": "{color: #FF9900}Are Ghost Cards Safe?\r\n{color}{color: #FFFF00}Yes!{color} Ghost cards have been implemented with safety measures\r\nto protect the user so that the game server sees only legitimate\r\ninformation while using{color: #80B3FF} Trident Mobile{color}. This includes areas\r\nsuch as {color: #FF0000} World Tournament, Chain Battle, and Ultimate Clash.{color}",
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}Previously,{color:  #80B3FF} Trident Mobile{color} would change your{color: #FFFF00} Unlocked Cards{color}\r\nto better and more powerful cards. Now,{color: #FFFF00} Unlocked Cards{color} will\r\nremain untouched by{color:  #80B3FF} Trident Mobile{color} so you can safely obtain\r\nsummonable anddrop units without them being replaced\r\nwhile they are unlocked.",
+				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}Previously,{color: #80B3FF} Trident Mobile{color} would change your{color: #FFFF00} Unlocked Cards{color}\r\nto better and more powerful cards. Now,{color: #FFFF00} Unlocked Cards{color} will\r\nremain untouched by{color:  #80B3FF} Trident Mobile{color} so you can safely obtain\r\nsummonable anddrop units without them being replaced\r\nwhile they are unlocked.",
 				"image": null,
 				"layout_type": 0
 			}, {
