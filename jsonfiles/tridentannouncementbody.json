@@ -29,7 +29,7 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}",
+				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}The{color: #FFFF00} locked{color} or{color: #FFFF00} favorited{color} units in your box,\r\nwill never be changed to other units.{color: #FFFF00} Locked{color} or{color: #FFFF00} Favorite{color}\r\nunits will be Maxed out in Potential, Link Levels, Super Attack Level, and given best equipments determined by Trident.",
 				"image": null,
 				"layout_type": 0
 			}, {
