@@ -13,7 +13,7 @@
 		"title": "Trident Ghosts Update!",
 		"bodies": [
             {
-				"description": "\n{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}{color : #A5FFF4}Trident Mobile v2.6.0{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\nGhosts Update is here!{color}{center}{size}{outline}{shadow}",
+				"description": "\r\n{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}{color : #A5FFF4}Trident Mobile v2.6.0{center: begin}{size : 30}{outline : #000000 , 2}{shadow: #0017FF, 2, 3, 4}\nGhosts Update is here!{color}{center}{size}{outline}{shadow}",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/BodyAnnouncement550x300.png",
 				"layout_type": 0
 			}, {
@@ -21,7 +21,7 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "\r\n{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards,\r\nwhile the game server will never see the ghost cards\r\nbecause to the server,{color: #FFFF00} Ghost Cards do not exist, hence\r\nthe name Ghost Cards.{color}. Ghost Units will also be\r\n{color: #FF0000} Locked Units{color}.",
+				"description": "\r\n{color: #FF9900}What are Ghosts Cards?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards,\r\nwhile the game server will never see the ghost cards\r\nbecause to the server,{color: #FFFF00} Ghost Cards do not exist, hence\r\nthe name Ghost Cards.{color}. Ghost Units will also be\r\n{color: #FF0000}Locked Units{color}.",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/WhatAreGhosts.png",
 				"layout_type": 0
 			}, {
@@ -33,11 +33,11 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Team Slot Setup\r\n{color}When using Ghost cards,{color: #FFFF00} Team Slot 1{color} will be your 'Real Team',\r\nyou can NOT use Ghost Cards on{color: #FFFF00} Team Slot 1{color}, only legitimate\r\ncards. If you try to use Ghost Cards on{color: #FFFF00} Team Slot 1{color}, an error will\r\npop up telling you that you are using a Ghost Card.{color: #FFFF00} Team slots 2\r\nthrough 7{color}, are teams you will be able to use{color: #33CC33} Real{color} and{color: #9933FF} Ghost\r\n{color}Cards on your team. Because Team 1 data is being sent to the\r\nserver, If you make a team with Ghost units you can use\r\nthose ghost teams on events as long as team 1 meets\r\nthe restrictions if events have them like SBR and ESBR.\r\nOnce you make your Team in{color: #FFFF00} Team Slot 1{color}, you do not have to\r\nedit that team or use that team at all, it is meant as a\r\nplaceholder for the data being sent. You can differentiate your\r\n{color: #33CC33}'REAL'{color} units from{color: #9933FF} 'GHOST'{color} units via the{color: #FF0000} Tag System{color}.\r\n",
+				"description": "\r\n{color: #FF9900}Team Slot Setup\r\n{color}When using Ghost cards,{color: #FFFF00} Team Slot 1{color} will be your 'Real Team',\r\nyou can NOT use Ghost Cards on{color: #FFFF00} Team Slot 1{color}, only legitimate\r\ncards. If you try to use Ghost Cards on{color: #FFFF00} Team Slot 1{color}, an error will\r\npop up telling you that you are using a Ghost Card.{color: #FFFF00} Team slots 2\r\nthrough 7{color}, are teams you will be able to use{color: #33CC33} Real{color} and{color: #9933FF} Ghost\r\n{color}Cards on your team. Because Team 1 data is being sent to the\r\nserver, If you make a team with Ghost units you can use\r\nthose ghost teams on events as long as team 1 meets\r\nthe restrictions if events have them like SBR and ESBR.\r\nOnce you make your Team in{color: #FFFF00} Team Slot 1{color}, you do not have to\r\nedit that team or use that team at all, it is meant as a\r\nplaceholder for the data being sent. You can differentiate your\r\n{color: #33CC33}'REAL'{color} units from{color: #9933FF} 'GHOST'{color} units via the{color: #FF0000} Tag System{color}.\r\n",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TeamSetup.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Card Tag System\r\n{color}{color: #80B3FF}Trident Mobile{color} will enable card tags permanently while being\r\nused. The reason for this is because {color: #9933FF}Ghost Cards{color} are also\r\nLocked Units with your{color: #33CC33} Real Units{color}. So to help users differentiate\r\ntheir{color: #33CC33} 'Real'{color} cards from their{color: #9933FF} 'Ghosts'{color} cards, there is a custom{color: #FF0000}\r\nTag System{color} in place with{color: #80B3FF} Trident{color} where{color: #FF0000} Card Tag #1{color} are your{color: #33CC33}\r\n'Real' cards{color} and {color: #FF0000} Card Tag #2{color} are your{color: #9933FF} 'Ghost' cards{color}. This will\r\nnot overwrite your tags you had. This change is only when\r\nusing{color: #80B3FF} Trident Mobile{color}. Users can not edit tags while using{color: #80B3FF}\r\nTrident Mobile{color}, as it is just a safety precaution.",
+				"description": "\r\n{color: #FF9900}Card Tag System\r\n{color}{color: #80B3FF}Trident Mobile{color} will enable card tags permanently while being\r\nused. The reason for this is because {color: #9933FF}Ghost Cards{color} are also\r\nLocked Units with your{color: #33CC33} Real Units{color}. So to help users differentiate\r\ntheir{color: #33CC33} 'Real'{color} cards from their{color: #9933FF} 'Ghosts'{color} cards, there is a custom{color: #FF0000}\r\nTag System{color} in place with{color: #80B3FF} Trident{color} where{color: #FF0000} Card Tag #1{color} are your{color: #33CC33}\r\n'Real' cards{color} and {color: #FF0000} Card Tag #2{color} are your{color: #9933FF} 'Ghost' cards{color}. This will\r\nnot overwrite your tags you had. This change is only when\r\nusing{color: #80B3FF} Trident Mobile{color}. Users can not edit tags while using{color: #80B3FF}\r\nTrident Mobile{color}, as it is just a safety precaution.",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TagSystem.png",
 				"layout_type": 0
 			}, {
