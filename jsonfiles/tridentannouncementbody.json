@@ -25,7 +25,7 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/WhatAreGhosts.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Are Ghost Cards Safe?\r\n{color}",
+				"description": "{color: #FF9900}Are Ghost Cards Safe?\r\n{color}{color: #FFFF00}Yes!{color} Ghost cards have been implemented with safety measures to protect the user so that the game server sees only legitimate information while using Trident Mobile. This includes areas such as World Tournament, Chain Battle, and Ultimate Clash. ",
 				"image": null,
 				"layout_type": 0
 			}, {
@@ -37,7 +37,7 @@
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Click Here to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}",
+				"description": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Tap to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}",
 				"image": null,
 				"layout_type": 0
 			}
