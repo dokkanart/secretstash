@@ -37,6 +37,10 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TeamSetup.png",
 				"layout_type": 0
 			}, {
+				"description": "{color: #FF9900}Trident Card Tag System\r\n{color}",
+				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TagSystem.png",
+				"layout_type": 0
+			}, {
 				"description": "{color: #FF9900}Locked or Favorited Units\r\n{color}The{color: #FFFF00} locked{color} or{color: #FFFF00} favorited{color} units in your box, will never be changed\r\nto other units.{color: #FFFF00} Locked{color} or{color: #FFFF00} Favorite{color} units will be Maxed out in\r\n{color: #FF0000}Potential, Link Levels, Super Attack Level, and given best\r\nequipments{color} determined by{color: #80B3FF} Trident Mobile{color}.",
 				"image": null,
 				"layout_type": 0
