@@ -25,7 +25,19 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/WhatAreGhosts.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Are Ghost Cards Safe?\r\n{color}Ghost cards are units that will be added to your box,\r\nhowever, only the player can see and use these cards,\r\nwhile the game server will never see the ghost cards\r\nbecause to the server, Ghost Cards do not exist, hence\r\nthe name Ghost Cards.",
+				"description": "{color: #FF9900}Are Ghost Cards Safe?\r\n{color}",
+				"image": null,
+				"layout_type": 0
+			}, {
+				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}",
+				"image": null,
+				"layout_type": 0
+			}, {
+				"description": "{color: #FF9900}Team Slot Setup\r\n{color}",
+				"image": null,
+				"layout_type": 0
+			}, {
+				"description": "{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Click Here to Watch Tutorial Video\r\n{link}{size}{color}{outline}",
 				"image": null,
 				"layout_type": 0
 			}
