@@ -37,6 +37,10 @@
 				"image": null,
 				"layout_type": 0
 			}, {
+				"description": "{color: #FF9900}Locked or Favorited Units\r\n{color}",
+				"image": null,
+				"layout_type": 0
+			}, {
 				"description": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Tap to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}",
 				"image": null,
 				"layout_type": 0
