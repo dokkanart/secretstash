@@ -7,9 +7,9 @@
 		"id": 99999999,
 		"is_new": true,
 		"layout_type": 0,
-		"new_appear_at": 0,
-		"start_at": 0,
-		"summary": "Trident Mobile Update 2.6.0!",
+		"new_appear_at": 1598918400,
+		"start_at": 1598918400,
+		"summary": "Trident Mobile Update 3.0.0!",
 		"title": "Trident Ghosts Update!",
 		"bodies": [
             {
@@ -30,7 +30,7 @@
 				"layout_type": 0
 			}, {
 				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}Previously,{color: #80B3FF} Trident Mobile{color} would change your{color: #FFFF00} Unlocked Cards{color}\r\nto better and more powerful cards. Now,{color: #FFFF00} Unlocked Cards{color} will\r\nremain untouched by{color: #80B3FF} Trident Mobile{color} so you can safely obtain\r\nsummonable anddrop units without them being replaced\r\nwhile they are unlocked.",
-				"image": null,
+				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/UnlockedUnits.png",
 				"layout_type": 0
 			}, {
 				"description": "\r\n{color: #FF9900}Team Slot Setup\r\n{color}When using Ghost cards,{color: #FFFF00} Team Slot 1{color} will be your 'Real Team',\r\nyou can NOT use Ghost Cards on{color: #FFFF00} Team Slot 1{color}, only legitimate\r\ncards. If you try to use Ghost Cards on{color: #FFFF00} Team Slot 1{color}, an error will\r\npop up telling you that you are using a Ghost Card.{color: #FFFF00} Team slots 2\r\nthrough 7{color}, are teams you will be able to use{color: #33CC33} Real{color} and{color: #9933FF} Ghost\r\n{color}Cards on your team. Because Team 1 data is being sent to the\r\nserver, If you make a team with Ghost units you can use\r\nthose ghost teams on events as long as team 1 meets\r\nthe restrictions if events have them like SBR and ESBR.\r\nOnce you make your Team in{color: #FFFF00} Team Slot 1{color}, you do not have to\r\nedit that team or use that team at all, it is meant as a\r\nplaceholder for the data being sent. You can differentiate your\r\n{color: #33CC33}'REAL'{color} units from{color: #9933FF} 'GHOST'{color} units via the{color: #FF0000} Tag System{color}.\r\n",
@@ -42,11 +42,11 @@
 				"layout_type": 0
 			}, {
 				"description": "{color: #FF9900}Locked or Favorited Units\r\n{color}The{color: #FFFF00} locked{color} or{color: #FFFF00} favorited{color} units in your box, will never be changed\r\nto other units.{color: #FFFF00} Locked{color} or{color: #FFFF00} Favorite{color} units will be Maxed out in\r\n{color: #FF0000}Potential, Link Levels, Super Attack Level, and given best\r\nequipments{color} determined by{color: #80B3FF} Trident Mobile{color}.",
-				"image": null,
+				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/MaxLocked.png",
 				"layout_type": 0
 			}, {
 				"description": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Tap to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}\r\n",
-				"image": null,
+				"image": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/Watchonyt.png\r\n{link}{size}{color}{center}{outline}",
 				"layout_type": 0
 			}
 		]
