@@ -25,11 +25,11 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/WhatAreGhosts.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Are Ghost Cards Safe?\r\n{color}{color: #FFFF00}Yes!{color} Ghost cards have been implemented with safety measures\r\nto protect the user so that the game server sees only legitimate\r\ninformation while using{color: #80B3FF} Trident Mobile{color}. This includes areas\r\nsuch as {color: #FF0000} World Tournament, Chain Battle, and Ultimate Clash.{color}\r\n",
+				"description": "\r\n{color: #FF9900}Are Ghost Cards Safe?\r\n{color}{color: #FFFF00}Yes!{color} Ghost cards have been implemented with safety measures\r\nto protect the user so that the game server sees only legitimate\r\ninformation while using{color: #80B3FF} Trident Mobile{color}. This includes areas\r\nsuch as {color: #FF0000} World Tournament, Chain Battle, and Ultimate Clash.{color}\r\n",
 				"image": null,
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}Previously,{color: #80B3FF} Trident Mobile{color} would change your{color: #FFFF00} Unlocked Cards{color}\r\nto better and more powerful cards. Now,{color: #FFFF00} Unlocked Cards{color} will\r\nremain untouched by{color: #80B3FF} Trident Mobile{color} so you can safely obtain\r\nsummonable anddrop units without them being replaced\r\nwhile they are unlocked.\r\n",
+				"description": "\r\n{color: #FF9900}Unlocked Unit Changes Removed\r\n{color}Previously,{color: #80B3FF} Trident Mobile{color} would change your{color: #FFFF00} Unlocked Cards{color}\r\nto better and more powerful cards. Now,{color: #FFFF00} Unlocked Cards{color} will\r\nremain untouched by{color: #80B3FF} Trident Mobile{color} so you can safely obtain\r\nsummonable anddrop units without them being replaced\r\nwhile they are unlocked.\r\n",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/UnlockedUnits.png",
 				"layout_type": 0
 			}, {
@@ -41,11 +41,11 @@
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/TagSystem.png",
 				"layout_type": 0
 			}, {
-				"description": "{color: #FF9900}Locked or Favorited Units\r\n{color}The{color: #FFFF00} locked{color} or{color: #FFFF00} favorited{color} units in your box, will never be changed\r\nto other units.{color: #FFFF00} Locked{color} or{color: #FFFF00} Favorite{color} units will be Maxed out in\r\n{color: #FF0000}Potential, Link Levels, Super Attack Level, and given best\r\nequipments{color} determined by{color: #80B3FF} Trident Mobile{color}.\r\n",
+				"description": "\r\n{color: #FF9900}Locked or Favorited Units\r\n{color}The{color: #FFFF00} locked{color} or{color: #FFFF00} favorited{color} units in your box, will never be changed\r\nto other units.{color: #FFFF00} Locked{color} or{color: #FFFF00} Favorite{color} units will be Maxed out in\r\n{color: #FF0000}Potential, Link Levels, Super Attack Level, and given best\r\nequipments{color} determined by{color: #80B3FF} Trident Mobile{color}.\r\n",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/MaxLocked.png",
 				"layout_type": 0
 			}, {
-				"description": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Tap to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}\r\n",
+				"description": "\r\n{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Tap to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}\r\n",
 				"image": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/Watchonyt.png",
 				"layout_type": 0
 			}
