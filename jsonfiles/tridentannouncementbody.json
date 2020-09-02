@@ -46,7 +46,7 @@
 				"layout_type": 0
 			}, {
 				"description": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}Tap to Watch Tutorial Video\r\n{link}{size}{color}{center}{outline}\r\n",
-				"image": "{center: begin}{size: 24}{color: #FFFF00}{outline: #FF0000, 2}{link:https://www.youtube.com/CS3Tutorials001}https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/Watchonyt.png\r\n{link}{size}{color}{center}{outline}",
+				"image": "{link:https://www.youtube.com/CS3Tutorials001}https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/Watchonyt.png{link}",
 				"layout_type": 0
 			}
 		]
