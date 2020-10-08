@@ -1,11 +1,11 @@
 {
 	"user": {
-		"id": 1,
+		"id": 1000,
 		"name": "BandaiSpy",
 		"is_ondemand": false,
 		"rank": 999,
-		"exp": 9840296862,
-		"act": 999,
+		"exp": 98402968,
+		"act": 300,
 		"boost_point": 2,
 		"act_max": 999,
 		"act_at": 1601610432,
@@ -25,10 +25,10 @@
 			"max_recovery_count": 5,
 			"recovered_count": 0
 		},
-		"zeni": 9999999999,
-		"gasha_point": 9999999,
-		"exchange_point": 999999,
-		"stone": 9999,
+		"zeni": 9999999,
+		"gasha_point": 9999,
+		"exchange_point": 999,
+		"stone": 999,
 		"tutorial": {
 			"is_finished": true
 		},
