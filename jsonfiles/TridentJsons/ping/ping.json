@@ -1,8 +1,1 @@
-{
-	"ping_info": {
-		"host": "ishin-production.aktsk.jp",
-		"port": 443,
-		"port_str": 443,
-		"cf_uri_prefix": "https://cf.ishin-prod.aktsk.jp/"
-	}
-}
+{}
