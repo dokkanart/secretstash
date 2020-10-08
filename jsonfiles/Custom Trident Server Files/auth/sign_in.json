@@ -1,9 +1,0 @@
-{
-	"access_token": "UnjEr6dyKIeW7TPcAHNRBtvp9/ak3fzhwAKMLlQCqE3zle/jTGRupB7u9Z3Ec93lxKPIoS4JwEE2Js3cMsHhHg==",
-	"token_type": "mac",
-	"secret": "HhG1EJLPk9emTZCej9glo0rrFhQ+naqNGk4EPrsjj9JasVI4UEoUX8HR0UZ16caRn1qN+eFzkd77faB8BFdfAA==",
-	"algorithm": "hmac-sha-256",
-	"expires_in": 999999999,
-	"captcha_result": "success",
-	"message": "Verification completed."
-}
