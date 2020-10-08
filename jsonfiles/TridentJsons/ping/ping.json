@@ -1,8 +1,8 @@
 {
 	"ping_info": {
-		"host": "tridentcpt.com",
+		"host": "ishin-production.aktsk.jp",
 		"port": 443,
 		"port_str": 443,
-		"cf_uri_prefix": "tridentcpt.com/"
+		"cf_uri_prefix": "https://cf.ishin-prod.aktsk.jp/"
 	}
 }
