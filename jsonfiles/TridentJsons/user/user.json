@@ -1,0 +1,38 @@
+{
+	"user": {
+		"id": 1,
+		"name": "BandaiSpy",
+		"is_ondemand": false,
+		"rank": 999,
+		"exp": 9840296862,
+		"act": 999,
+		"boost_point": 2,
+		"act_max": 999,
+		"act_at": 1601610432,
+		"boost_at": 1598029873,
+		"wallpaper_item_id": 11,
+		"card_capacity": 215,
+		"total_card_capacity": 845,
+		"team_cost_capacity": 972,
+		"friends_capacity": 100,
+		"support_item_capacity": 4,
+		"is_support_item_capacity_extended": true,
+		"battle_energy": {
+			"energy": 3,
+			"recover_point_with_stone": 1,
+			"battle_at": 1998442987,
+			"seconds_per_cure": 10800,
+			"max_recovery_count": 5,
+			"recovered_count": 0
+		},
+		"zeni": 9999999999,
+		"gasha_point": 9999999,
+		"exchange_point": 999999,
+		"stone": 9999,
+		"tutorial": {
+			"is_finished": true
+		},
+		"is_potential_releaseable": true,
+		"processed_at": 1602125810
+	}
+}
