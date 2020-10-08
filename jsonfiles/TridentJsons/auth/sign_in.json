@@ -3,7 +3,7 @@
 	"token_type": "mac",
 	"secret": "HhG1EJLPk9emTZCej9glo0rrFhQ+naqNGk4EPrsjj9JasVI4UEoUX8HR0UZ16caRn1qN+eFzkd77faB8BFdfAA==",
 	"algorithm": "hmac-sha-256",
-	"expires_in": 999999999,
+	"expires_in": 3999,
 	"captcha_result": "success",
 	"message": "Verification completed."
 }
