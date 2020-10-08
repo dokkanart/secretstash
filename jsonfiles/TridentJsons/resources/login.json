@@ -13082,7 +13082,7 @@
 	},
 	"budokai": {},
 	"rmbattles": {},
-	"recommends": [{}],
+	"recommends": [],
 	"login_movies": [],
 	"announcement_tab_id": 1,
 	"announcement_tabs": [{
@@ -13098,8 +13098,8 @@
 		"name": "Other",
 		"priority": 1
 	}],
-	"announcements": [{}],
+	"announcements": [],
 	"chain_battles": {},
-	"gifts": [{}],
+	"gifts": [],
 	"joint_campaigns": {}
 }
