@@ -53,6 +53,8 @@
 		"equipment_skill_items": [],
 		"link_skill_lvs": []
 	}],
+	"item_cards": [],
+	"user_card_id_updates": [],
 	"card_tags": [{
 		"num": 1,
 		"name": "LR",
@@ -7833,6 +7835,8 @@
 			"quantity": 1
 		}]
 	},
+	"support_memories": [],
+	"support_films": [],
 	"awakening_items": [{
 		"awakening_item_id": 1,
 		"quantity": 4207
@@ -20614,6 +20618,7 @@
 	"rmbattles": {},
 	"recommends": [],
 	"login_movies": [],
+	"popup": {},
 	"announcement_tab_id": 1,
 	"announcement_tabs": [{
 		"id": 1,
