@@ -28765,7 +28765,20 @@
       "priority": 8
     }
   ],
-  "announcements": [],
+  "announcements": [
+        {
+		"announcement_tab_id": 1,
+		"banner": "https://raw.githubusercontent.com/dokkanart/secretstash/master/TridentImages/GhostsAnnouncement550x160.png",
+		"category": 0,
+		"id": 99999999,
+		"is_new": true,
+		"layout_type": 0,
+		"new_appear_at": 1598918400,
+		"start_at": 1598918400,
+		"summary": "Trident Mobile Update 3.0.0!\n Ghost Cards are here! Check out how it works!",
+		"title": "Trident Ghosts Update!"
+	}
+],
   "chain_battles": {},
   "gifts": [],
   "joint_campaigns": {}
